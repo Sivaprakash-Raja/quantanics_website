@@ -1,0 +1,13 @@
+.containerd{
+    margin:500px 0px;
+}
+
+.texts{
+    margin:100px auto;
+    width:100%;
+    height:100vh;
+    font-size:48px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
